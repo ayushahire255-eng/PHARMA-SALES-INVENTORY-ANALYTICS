@@ -1,0 +1,101 @@
+Product_ID,Medicine_Name,Generic_Name,Category,Manufacturer,Dosage_Form,Strength,Pack_Size,MRP,Cost_Price,Shelf_Life_Months
+PROD001,Mupiax Forte,Mupiax generic,Dermatology,Bristol Myers Squibb,Ointment,250mg,30s,34.11,27.62,36
+PROD002,Zincsone Forte,Zincsone generic,Vitamins,Johnson & Johnson,Ointment,20mg,100s,169.37,141.09,36
+PROD003,Vitmab Plus,Vitmab generic,Vitamins,Johnson & Johnson,Ointment,100mg,10s,74.01,47.23,18
+PROD004,Linazole Max,Linazole generic,Antidiabetics,AstraZeneca,Syrup,250mg,60s,152.38,103.64,18
+PROD005,Atormab Plus,Atormab generic,Cardiovascular,GSK,Tablet,20mg,1 Bottle,51.74,38.48,36
+PROD006,Mupiax Forte,Mupiax generic,Dermatology,Pfizer,Injection,20mg,100s,75.9,50.2,18
+PROD007,Amlodax Plus,Amlodax generic,Cardiovascular,GSK,Injection,20mg,30s,210.04,134.75,36
+PROD008,Montzole Max,Montzole generic,Respiratory,AstraZeneca,Ointment,250mg,30s,129.22,83.26,12
+PROD009,Gabaax XR,Gabaax generic,Neurology,AstraZeneca,Tablet,10mg,100s,57.47,47.56,24
+PROD010,Cephfen Forte,Cephfen generic,Antibiotics,Pfizer,Syrup,250mg,30s,72.34,56.98,24
+PROD011,Sertmab Plus,Sertmab generic,Neurology,Pfizer,Ointment,50mg,100s,168.82,97.45,12
+PROD012,Metfen XR,Metfen generic,Antidiabetics,AbbVie,Capsule,500mg,60s,117.69,80.8,18
+PROD013,Sitazole XR,Sitazole generic,Antidiabetics,Merck,Ointment,100mg,1 Vial,39.38,25.2,24
+PROD014,Atorzole Forte,Atorzole generic,Cardiovascular,Roche,Injection,20mg,30s,193.05,122.18,18
+PROD015,Amlodmine Plus,Amlodmine generic,Cardiovascular,Sanofi,Injection,10mg,1 Vial,28.02,20.96,18
+PROD016,Sertax XR,Sertax generic,Neurology,Roche,Syrup,10mg,1 Vial,47.33,37.21,36
+PROD017,Flutmine XR,Flutmine generic,Respiratory,Merck,Tablet,500mg,10s,56.38,41.82,24
+PROD018,Diclocin,Diclocin generic,Analgesics,Pfizer,Tablet,50mg,10s,212.09,146.61,24
+PROD019,Zinccin XR,Zinccin generic,Vitamins,Roche,Capsule,250mg,100s,107.11,69.93,24
+PROD020,Losarmine Forte,Losarmine generic,Cardiovascular,Pfizer,Ointment,100mg,30s,147.37,96.86,36
+PROD021,Amoximab Forte,Amoximab generic,Antibiotics,Johnson & Johnson,Ointment,50mg,100s,69.62,52.26,18
+PROD022,Sitafen Max,Sitafen generic,Antidiabetics,Sanofi,Injection,10mg,10s,94.64,62.65,36
+PROD023,Azimab XR,Azimab generic,Antibiotics,AstraZeneca,Capsule,500mg,30s,67.67,42.4,18
+PROD024,Sertmab XR,Sertmab generic,Neurology,Novartis,Tablet,500mg,100s,148.66,85.95,24
+PROD025,Gabafen Forte,Gabafen generic,Neurology,Roche,Injection,500mg,10s,122.66,98.09,36
+PROD026,Amlodsone Max,Amlodsone generic,Cardiovascular,Roche,Tablet,50mg,10s,7.43,5.73,18
+PROD027,Ibufen,Ibufen generic,Analgesics,AstraZeneca,Injection,10mg,100s,54.97,39.4,36
+PROD028,Budesone Forte,Budesone generic,Respiratory,Pfizer,Tablet,100mg,60s,79.26,58.32,18
+PROD029,Pantax Forte,Pantax generic,Gastrointestinal,Johnson & Johnson,Syrup,50mg,30s,88.49,55.76,24
+PROD030,Amoximab,Amoximab generic,Antibiotics,Roche,Injection,50mg,10s,20.34,11.32,18
+PROD031,Calcfen Max,Calcfen generic,Vitamins,AstraZeneca,Ointment,250mg,10s,131.42,85.15,36
+PROD032,Cephax,Cephax generic,Antibiotics,Sanofi,Tablet,50mg,30s,151.05,85.74,18
+PROD033,Linasone Plus,Linasone generic,Antidiabetics,Johnson & Johnson,Capsule,50mg,30s,217.43,132.22,12
+PROD034,Levpril,Levpril generic,Neurology,GSK,Capsule,50mg,30s,228.51,130.73,18
+PROD035,Clotstatin,Clotstatin generic,Dermatology,Merck,Tablet,500mg,1 Vial,188.04,134.05,36
+PROD036,Ibuzole Forte,Ibuzole generic,Analgesics,AstraZeneca,Capsule,500mg,1 Bottle,217.36,126.65,12
+PROD037,Amlodpril Forte,Amlodpril generic,Cardiovascular,AbbVie,Tablet,250mg,100s,57.11,36.29,36
+PROD038,Omepstatin Forte,Omepstatin generic,Gastrointestinal,Sanofi,Injection,250mg,30s,111.31,79.86,12
+PROD039,Flutfen Max,Flutfen generic,Respiratory,GSK,Capsule,250mg,30s,246.02,144.58,12
+PROD040,Vittine Plus,Vittine generic,Vitamins,Pfizer,Capsule,500mg,1 Vial,173.37,108.62,12
+PROD041,Cephax,Cephax generic,Antibiotics,Johnson & Johnson,Ointment,50mg,100s,112.78,87.08,18
+PROD042,Gabamab,Gabamab generic,Neurology,Pfizer,Injection,250mg,100s,12.42,7.49,12
+PROD043,Mupicin,Mupicin generic,Dermatology,Sanofi,Capsule,20mg,1 Vial,119.15,97.09,24
+PROD044,Levofen Plus,Levofen generic,Anti-Allergy,Pfizer,Ointment,250mg,100s,166.57,94.3,18
+PROD045,Cephmine Max,Cephmine generic,Antibiotics,Bristol Myers Squibb,Injection,20mg,60s,144.96,98.28,24
+PROD046,Zincfen XR,Zincfen generic,Vitamins,Pfizer,Capsule,50mg,100s,59.42,44.72,18
+PROD047,Parafen Plus,Parafen generic,Analgesics,Roche,Tablet,20mg,1 Bottle,154.79,127.51,18
+PROD048,Metzole Max,Metzole generic,Antidiabetics,GSK,Ointment,20mg,1 Bottle,172.28,140.81,12
+PROD049,Vitlin Max,Vitlin generic,Vitamins,GSK,Ointment,10mg,60s,215.14,148.62,18
+PROD050,Azisone,Azisone generic,Antibiotics,Pfizer,Ointment,10mg,60s,34.74,19.95,18
+PROD051,Ramlin,Ramlin generic,Cardiovascular,Roche,Tablet,100mg,100s,245.98,143.99,12
+PROD052,Mupistatin Forte,Mupistatin generic,Dermatology,GSK,Ointment,250mg,60s,141.5,92.35,12
+PROD053,Atorzole XR,Atorzole generic,Cardiovascular,Sanofi,Ointment,250mg,30s,262.93,146.27,18
+PROD054,B-Compzole,B-Compzole generic,Vitamins,Novartis,Injection,10mg,30s,217.35,126.36,18
+PROD055,Hydroax Plus,Hydroax generic,Dermatology,AstraZeneca,Capsule,50mg,30s,39.6,26.26,18
+PROD056,Linaax XR,Linaax generic,Antidiabetics,Johnson & Johnson,Injection,10mg,10s,128.07,90.82,36
+PROD057,Metmab Forte,Metmab generic,Antidiabetics,GSK,Capsule,50mg,1 Vial,92.24,76.43,36
+PROD058,Loramab,Loramab generic,Anti-Allergy,AstraZeneca,Tablet,50mg,1 Bottle,56.8,39.44,36
+PROD059,Amoxisone XR,Amoxisone generic,Antibiotics,Johnson & Johnson,Ointment,500mg,30s,12.05,6.76,12
+PROD060,Zincpril,Zincpril generic,Vitamins,AbbVie,Injection,50mg,60s,220.34,145.55,12
+PROD061,Ciprocin,Ciprocin generic,Antibiotics,Johnson & Johnson,Syrup,10mg,60s,80.97,45.74,36
+PROD062,Esomepsone Max,Esomepsone generic,Gastrointestinal,AbbVie,Capsule,100mg,100s,102.0,72.24,18
+PROD063,Vitstatin Forte,Vitstatin generic,Vitamins,Johnson & Johnson,Tablet,10mg,10s,100.92,64.62,36
+PROD064,Metpril Plus,Metpril generic,Antidiabetics,Roche,Ointment,10mg,30s,29.34,17.0,24
+PROD065,B-Compsone XR,B-Compsone generic,Vitamins,Johnson & Johnson,Tablet,20mg,10s,98.37,59.63,12
+PROD066,Ranimine XR,Ranimine generic,Gastrointestinal,Pfizer,Capsule,10mg,60s,29.49,24.41,24
+PROD067,Esomepcin,Esomepcin generic,Gastrointestinal,AbbVie,Syrup,250mg,1 Bottle,182.45,110.29,24
+PROD068,Amoxilin XR,Amoxilin generic,Antibiotics,Roche,Ointment,250mg,100s,61.16,38.15,36
+PROD069,Tramsone Plus,Tramsone generic,Analgesics,GSK,Capsule,500mg,1 Vial,173.84,125.55,12
+PROD070,Esomeppine Forte,Esomeppine generic,Gastrointestinal,AstraZeneca,Tablet,250mg,1 Bottle,164.45,97.71,24
+PROD071,Esomepmab Plus,Esomepmab generic,Gastrointestinal,Johnson & Johnson,Capsule,20mg,30s,90.5,61.88,24
+PROD072,Tramlin XR,Tramlin generic,Analgesics,Bristol Myers Squibb,Injection,500mg,30s,230.13,130.04,36
+PROD073,Loracin Plus,Loracin generic,Anti-Allergy,Pfizer,Injection,100mg,1 Bottle,220.0,147.1,12
+PROD074,Sitalin Forte,Sitalin generic,Antidiabetics,Johnson & Johnson,Injection,100mg,10s,200.44,135.03,12
+PROD075,Paratine Forte,Paratine generic,Analgesics,Roche,Ointment,250mg,30s,59.3,45.4,12
+PROD076,Omeppine XR,Omeppine generic,Gastrointestinal,GSK,Capsule,10mg,1 Vial,73.63,52.86,18
+PROD077,Levlin Forte,Levlin generic,Neurology,Pfizer,Capsule,100mg,10s,26.88,17.25,36
+PROD078,Monttine Max,Monttine generic,Respiratory,Sanofi,Capsule,250mg,30s,13.95,10.32,24
+PROD079,Sitazole Forte,Sitazole generic,Antidiabetics,Novartis,Capsule,500mg,60s,79.05,62.59,24
+PROD080,Zinctine XR,Zinctine generic,Vitamins,Pfizer,Capsule,500mg,100s,54.57,38.82,12
+PROD081,Amlodfen XR,Amlodfen generic,Cardiovascular,Novartis,Injection,500mg,30s,133.26,85.87,36
+PROD082,Glimlin,Glimlin generic,Antidiabetics,Johnson & Johnson,Injection,20mg,30s,60.6,40.43,18
+PROD083,Vitcin,Vitcin generic,Vitamins,Johnson & Johnson,Ointment,500mg,1 Vial,52.71,40.66,24
+PROD084,Flutlin Forte,Flutlin generic,Respiratory,Roche,Ointment,100mg,1 Vial,111.69,62.69,36
+PROD085,Pantcin Forte,Pantcin generic,Gastrointestinal,AstraZeneca,Capsule,50mg,30s,75.77,45.6,18
+PROD086,Levostatin Forte,Levostatin generic,Anti-Allergy,Merck,Tablet,100mg,10s,132.92,81.83,18
+PROD087,Omepmine Max,Omepmine generic,Gastrointestinal,Roche,Tablet,500mg,30s,108.37,70.87,18
+PROD088,Parasone Plus,Parasone generic,Analgesics,Merck,Tablet,250mg,10s,179.46,115.23,36
+PROD089,Ranifen XR,Ranifen generic,Gastrointestinal,AbbVie,Injection,100mg,30s,37.72,23.02,12
+PROD090,Tramfen Forte,Tramfen generic,Analgesics,Pfizer,Injection,250mg,60s,158.93,120.31,18
+PROD091,Metpine,Metpine generic,Antidiabetics,Roche,Syrup,500mg,30s,189.89,136.64,18
+PROD092,Pregsone Forte,Pregsone generic,Neurology,Johnson & Johnson,Tablet,10mg,10s,81.11,56.53,18
+PROD093,Zincsone Forte,Zincsone generic,Vitamins,Sanofi,Syrup,500mg,1 Vial,87.26,53.26,18
+PROD094,Losarax XR,Losarax generic,Cardiovascular,Merck,Syrup,100mg,1 Bottle,37.44,26.99,12
+PROD095,Clotstatin Plus,Clotstatin generic,Dermatology,GSK,Ointment,50mg,30s,92.42,54.6,24
+PROD096,Atorsone Max,Atorsone generic,Cardiovascular,Bristol Myers Squibb,Ointment,250mg,1 Bottle,62.46,38.24,18
+PROD097,Sitastatin Max,Sitastatin generic,Antidiabetics,GSK,Syrup,50mg,1 Bottle,221.74,124.89,36
+PROD098,Pantsone Plus,Pantsone generic,Gastrointestinal,GSK,Ointment,500mg,30s,113.41,93.66,36
+PROD099,Ramstatin,Ramstatin generic,Cardiovascular,Bristol Myers Squibb,Ointment,20mg,10s,138.51,88.56,18
+PROD100,Metsone XR,Metsone generic,Antidiabetics,Johnson & Johnson,Syrup,10mg,1 Vial,50.95,39.21,36

@@ -1,0 +1,21 @@
+Salesperson_ID,Salesperson_Name,Territory,Experience_Years,Target,Manager
+SP01,John Doe,West,9,150000,Bob Manager
+SP02,Jane Smith,Northeast,13,100000,Charlie Manager
+SP03,Michael Green,West,9,150000,Diana Manager
+SP04,Emily White,South,3,200000,Alice Manager
+SP05,David Black,Northeast,2,200000,Bob Manager
+SP06,Sarah Blue,West,6,100000,Charlie Manager
+SP07,James Brown,Midwest,9,100000,Diana Manager
+SP08,Emma Pink,Midwest,7,250000,Alice Manager
+SP09,Robert Grey,South,14,200000,Bob Manager
+SP10,Linda Yellow,South,10,150000,Charlie Manager
+SP11,William Orange,West,7,100000,Diana Manager
+SP12,Barbara Purple,West,4,250000,Alice Manager
+SP13,Richard Gold,Northeast,1,250000,Bob Manager
+SP14,Susan Silver,Midwest,9,250000,Charlie Manager
+SP15,Joseph Bronze,Northeast,11,150000,Diana Manager
+SP16,Jessica Platinum,Northeast,7,250000,Alice Manager
+SP17,Thomas Diamond,Northeast,1,250000,Bob Manager
+SP18,Karen Ruby,West,12,100000,Charlie Manager
+SP19,Charles Emerald,South,11,250000,Diana Manager
+SP20,Nancy Pearl,Northeast,8,150000,Alice Manager
