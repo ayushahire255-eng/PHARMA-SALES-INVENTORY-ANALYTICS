@@ -270,7 +270,7 @@ Example:
 
 GitHub: https://github.com/ayushahire255-eng
 
-LinkedIn: *Add your LinkedIn profile*
+LinkedIn: https://www.linkedin.com/in/ayush-ahire-a4097a249
 
 ---
 ⭐ If you found this project useful, consider giving it a Star!
